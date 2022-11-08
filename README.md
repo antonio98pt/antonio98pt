@@ -4,7 +4,7 @@
 * [LinkedIn][1]
 
 ### Projects ###
-* [Proyecto-CM-Club-Padel][2]
+* [Proyecto-CM-Club-Padel][2] App Android para la gestión de reservas de un club de pádel
 
 
 
